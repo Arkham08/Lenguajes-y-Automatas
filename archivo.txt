@@ -1,0 +1,18 @@
+// Comentario
+entero numEntero = 5;
+
+// Condición si 8 es menor que 15
+Si (8 < 15) Entonces
+
+    // Asignar a numEntero el valor de 10 + 5
+    numEntero = 10 + 5;
+
+FinSi
+
+// Bucle for que va de 2 a 5
+Para (entero x = 2; x <= 5; x = x + 1)
+
+    // Código dentro del bucle
+    @@codigooo
+
+Finfor
